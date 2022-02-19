@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308213904849",
+    "project_id": "yozu-e0cff",
+    "storage_bucket": "yozu-e0cff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308213904849:android:bcfe6ec36d593218129cf0",
+        "android_client_info": {
+          "package_name": "com.uniqbit.yozu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308213904849-26978gpc1umae1s1phvg203iq3gbfj2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uniqbit.yozu",
+            "certificate_hash": "a4276e0684630dba9ba3f5981f27a3b8c8430aaf"
+          }
+        },
+        {
+          "client_id": "308213904849-6q123ct34jh5ck727ro30sj2jd5mqr9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcGyTiOoUSjQgF3v-R42qE-KuUm7DPIeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308213904849-6q123ct34jh5ck727ro30sj2jd5mqr9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
